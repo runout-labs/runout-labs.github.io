@@ -24,7 +24,7 @@ Before submitting the website to Apple, make sure:
 4. The legal company name and company number are correct.
 5. The website is not displaying a registrar/hosting placeholder.
 
-Optional future additions:
+Optional future additions: 
 - Thirty Three screenshots
 - App Store link after launch
 - Dedicated /thirty-three page
